@@ -11,3 +11,4 @@
  .idea
 # macOS
 .DS_Store
+/.env.dev
