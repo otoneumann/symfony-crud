@@ -12,3 +12,8 @@
 # macOS
 .DS_Store
 /.env.dev
+
+###> phpunit/phpunit ###
+/phpunit.xml
+/.phpunit.cache/
+###< phpunit/phpunit ###
