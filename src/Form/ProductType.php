@@ -16,11 +16,11 @@ class ProductType extends AbstractType
             ->add('name')
             ->add('description')
             ->add('size')
-            ->add('surname')
+/*            ->add('surname')
             ->add('string')
             ->add('city')
             ->add('streetNumber')
-            ->add('hobbies')
+            ->add('hobbies')*/
             ->add('save', SubmitType::class, ['label' => 'Add new product'])
         ;
     }
